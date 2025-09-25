@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mohamed\\OneDrive\\Documents\\EFCore\\DemoSession02MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1886DCED-529D-41A1-A77E-7FA5A87348FF}|DemoSession02MVC\\DemoSession02MVC.csproj|c:\\users\\mohamed\\onedrive\\documents\\efcore\\demosession02mvc\\demosession02mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1886DCED-529D-41A1-A77E-7FA5A87348FF}|DemoSession02MVC\\DemoSession02MVC.csproj|solutionrelative:demosession02mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1886DCED-529D-41A1-A77E-7FA5A87348FF}|DemoSession02MVC\\DemoSession02MVC.csproj|c:\\users\\mohamed\\onedrive\\documents\\efcore\\demosession02mvc\\demosession02mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1886DCED-529D-41A1-A77E-7FA5A87348FF}|DemoSession02MVC\\DemoSession02MVC.csproj|solutionrelative:demosession02mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1886DCED-529D-41A1-A77E-7FA5A87348FF}|DemoSession02MVC\\DemoSession02MVC.csproj|c:\\users\\mohamed\\onedrive\\documents\\efcore\\demosession02mvc\\demosession02mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1886DCED-529D-41A1-A77E-7FA5A87348FF}|DemoSession02MVC\\DemoSession02MVC.csproj|solutionrelative:demosession02mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1886DCED-529D-41A1-A77E-7FA5A87348FF}|DemoSession02MVC\\DemoSession02MVC.csproj|c:\\users\\mohamed\\onedrive\\documents\\efcore\\demosession02mvc\\demosession02mvc\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1886DCED-529D-41A1-A77E-7FA5A87348FF}|DemoSession02MVC\\DemoSession02MVC.csproj|solutionrelative:demosession02mvc\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1886DCED-529D-41A1-A77E-7FA5A87348FF}|DemoSession02MVC\\DemoSession02MVC.csproj|c:\\users\\mohamed\\onedrive\\documents\\efcore\\demosession02mvc\\demosession02mvc\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1886DCED-529D-41A1-A77E-7FA5A87348FF}|DemoSession02MVC\\DemoSession02MVC.csproj|solutionrelative:demosession02mvc\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1886DCED-529D-41A1-A77E-7FA5A87348FF}|DemoSession02MVC\\DemoSession02MVC.csproj|c:\\users\\mohamed\\onedrive\\documents\\efcore\\demosession02mvc\\demosession02mvc\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1886DCED-529D-41A1-A77E-7FA5A87348FF}|DemoSession02MVC\\DemoSession02MVC.csproj|solutionrelative:demosession02mvc\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\EFCore\\DemoSession02MVC\\DemoSession02MVC\\Views\\Home\\index.cshtml",
+              "RelativeDocumentMoniker": "DemoSession02MVC\\Views\\Home\\index.cshtml",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\EFCore\\DemoSession02MVC\\DemoSession02MVC\\Views\\Home\\index.cshtml",
+              "RelativeToolTip": "DemoSession02MVC\\Views\\Home\\index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T16:21:57.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\EFCore\\DemoSession02MVC\\DemoSession02MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DemoSession02MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\EFCore\\DemoSession02MVC\\DemoSession02MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DemoSession02MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T16:06:54.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\EFCore\\DemoSession02MVC\\DemoSession02MVC\\libman.json",
+              "RelativeDocumentMoniker": "DemoSession02MVC\\libman.json",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\EFCore\\DemoSession02MVC\\DemoSession02MVC\\libman.json",
+              "RelativeToolTip": "DemoSession02MVC\\libman.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-25T15:59:19.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\EFCore\\DemoSession02MVC\\DemoSession02MVC\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "DemoSession02MVC\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\EFCore\\DemoSession02MVC\\DemoSession02MVC\\Models\\Movie.cs",
+              "RelativeToolTip": "DemoSession02MVC\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T15:32:38.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\EFCore\\DemoSession02MVC\\DemoSession02MVC\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "DemoSession02MVC\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\EFCore\\DemoSession02MVC\\DemoSession02MVC\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "DemoSession02MVC\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwDcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T13:23:56.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\EFCore\\DemoSession02MVC\\DemoSession02MVC\\Program.cs",
+              "RelativeDocumentMoniker": "DemoSession02MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\EFCore\\DemoSession02MVC\\DemoSession02MVC\\Program.cs",
+              "RelativeToolTip": "DemoSession02MVC\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwCAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T12:57:47.39Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
