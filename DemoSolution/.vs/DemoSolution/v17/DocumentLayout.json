@@ -3,32 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{538AEE3E-55FF-4568-B4A3-F1CB4AD9BA02}|Demo.BLL\\Demo.BLL.csproj|c:\\users\\mohamed\\onedrive\\documents\\mvc\\demosolution\\demo.bll\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{538AEE3E-55FF-4568-B4A3-F1CB4AD9BA02}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E35D2B60-8C6D-43F9-A9E4-0E0C363799FA}|Demo.PL\\Demo.PL.csproj|c:\\users\\mohamed\\onedrive\\documents\\mvc\\demosolution\\demo.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E35D2B60-8C6D-43F9-A9E4-0E0C363799FA}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC82E17E-2133-421D-AA78-1B15A660C6A1}|Demo.DAL\\Demo.DAL.csproj|c:\\users\\mohamed\\onedrive\\documents\\mvc\\demosolution\\demo.dal\\data\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC82E17E-2133-421D-AA78-1B15A660C6A1}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\data\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC82E17E-2133-421D-AA78-1B15A660C6A1}|Demo.DAL\\Demo.DAL.csproj|c:\\users\\mohamed\\onedrive\\documents\\mvc\\demosolution\\demo.dal\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC82E17E-2133-421D-AA78-1B15A660C6A1}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35D2B60-8C6D-43F9-A9E4-0E0C363799FA}|Demo.PL\\Demo.PL.csproj|c:\\users\\mohamed\\onedrive\\documents\\mvc\\demosolution\\demo.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E35D2B60-8C6D-43F9-A9E4-0E0C363799FA}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35D2B60-8C6D-43F9-A9E4-0E0C363799FA}|Demo.PL\\Demo.PL.csproj|c:\\users\\mohamed\\onedrive\\documents\\mvc\\demosolution\\demo.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E35D2B60-8C6D-43F9-A9E4-0E0C363799FA}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E35D2B60-8C6D-43F9-A9E4-0E0C363799FA}|Demo.PL\\Demo.PL.csproj|c:\\users\\mohamed\\onedrive\\documents\\mvc\\demosolution\\demo.pl\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E35D2B60-8C6D-43F9-A9E4-0E0C363799FA}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E35D2B60-8C6D-43F9-A9E4-0E0C363799FA}|Demo.PL\\Demo.PL.csproj|c:\\users\\mohamed\\onedrive\\documents\\mvc\\demosolution\\demo.pl\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E35D2B60-8C6D-43F9-A9E4-0E0C363799FA}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E35D2B60-8C6D-43F9-A9E4-0E0C363799FA}|Demo.PL\\Demo.PL.csproj|c:\\users\\mohamed\\onedrive\\documents\\mvc\\demosolution\\demo.pl\\viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E35D2B60-8C6D-43F9-A9E4-0E0C363799FA}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35D2B60-8C6D-43F9-A9E4-0E0C363799FA}|Demo.PL\\Demo.PL.csproj|c:\\users\\mohamed\\onedrive\\documents\\mvc\\demosolution\\demo.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E35D2B60-8C6D-43F9-A9E4-0E0C363799FA}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538AEE3E-55FF-4568-B4A3-F1CB4AD9BA02}|Demo.BLL\\Demo.BLL.csproj|c:\\users\\mohamed\\onedrive\\documents\\mvc\\demosolution\\demo.bll\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{538AEE3E-55FF-4568-B4A3-F1CB4AD9BA02}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC82E17E-2133-421D-AA78-1B15A660C6A1}|Demo.DAL\\Demo.DAL.csproj|c:\\users\\mohamed\\onedrive\\documents\\mvc\\demosolution\\demo.dal\\data\\migrations\\20251003165437_intialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC82E17E-2133-421D-AA78-1B15A660C6A1}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\data\\migrations\\20251003165437_intialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FC82E17E-2133-421D-AA78-1B15A660C6A1}|Demo.DAL\\Demo.DAL.csproj|c:\\users\\mohamed\\onedrive\\documents\\mvc\\demosolution\\demo.dal\\data\\configurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC82E17E-2133-421D-AA78-1B15A660C6A1}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\data\\configurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35D2B60-8C6D-43F9-A9E4-0E0C363799FA}|Demo.PL\\Demo.PL.csproj|c:\\users\\mohamed\\onedrive\\documents\\mvc\\demosolution\\demo.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E35D2B60-8C6D-43F9-A9E4-0E0C363799FA}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.DAL\\Data\\Migrations\\20251003164248_IntialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Demo.DAL\\Data\\Migrations\\20251003164248_IntialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35D2B60-8C6D-43F9-A9E4-0E0C363799FA}|Demo.PL\\Demo.PL.csproj|c:\\users\\mohamed\\onedrive\\documents\\mvc\\demosolution\\demo.pl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E35D2B60-8C6D-43F9-A9E4-0E0C363799FA}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538AEE3E-55FF-4568-B4A3-F1CB4AD9BA02}|Demo.BLL\\Demo.BLL.csproj|c:\\users\\mohamed\\onedrive\\documents\\mvc\\demosolution\\demo.bll\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{538AEE3E-55FF-4568-B4A3-F1CB4AD9BA02}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538AEE3E-55FF-4568-B4A3-F1CB4AD9BA02}|Demo.BLL\\Demo.BLL.csproj|c:\\users\\mohamed\\onedrive\\documents\\mvc\\demosolution\\demo.bll\\factories\\deparmentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{538AEE3E-55FF-4568-B4A3-F1CB4AD9BA02}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\factories\\deparmentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538AEE3E-55FF-4568-B4A3-F1CB4AD9BA02}|Demo.BLL\\Demo.BLL.csproj|c:\\users\\mohamed\\onedrive\\documents\\mvc\\demosolution\\demo.bll\\dtos\\updateddepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{538AEE3E-55FF-4568-B4A3-F1CB4AD9BA02}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\dtos\\updateddepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538AEE3E-55FF-4568-B4A3-F1CB4AD9BA02}|Demo.BLL\\Demo.BLL.csproj|c:\\users\\mohamed\\onedrive\\documents\\mvc\\demosolution\\demo.bll\\dtos\\createddepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{538AEE3E-55FF-4568-B4A3-F1CB4AD9BA02}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\dtos\\createddepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538AEE3E-55FF-4568-B4A3-F1CB4AD9BA02}|Demo.BLL\\Demo.BLL.csproj|c:\\users\\mohamed\\onedrive\\documents\\mvc\\demosolution\\demo.bll\\dtos\\deparmentdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{538AEE3E-55FF-4568-B4A3-F1CB4AD9BA02}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\dtos\\deparmentdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC82E17E-2133-421D-AA78-1B15A660C6A1}|Demo.DAL\\Demo.DAL.csproj|c:\\users\\mohamed\\onedrive\\documents\\mvc\\demosolution\\demo.dal\\repositories\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC82E17E-2133-421D-AA78-1B15A660C6A1}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\repositories\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC82E17E-2133-421D-AA78-1B15A660C6A1}|Demo.DAL\\Demo.DAL.csproj|c:\\users\\mohamed\\onedrive\\documents\\mvc\\demosolution\\demo.dal\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC82E17E-2133-421D-AA78-1B15A660C6A1}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FC82E17E-2133-421D-AA78-1B15A660C6A1}|Demo.DAL\\Demo.DAL.csproj|c:\\users\\mohamed\\onedrive\\documents\\mvc\\demosolution\\demo.dal\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,10 +89,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E35D2B60-8C6D-43F9-A9E4-0E0C363799FA}|Demo.PL\\Demo.PL.csproj|c:\\users\\mohamed\\onedrive\\documents\\mvc\\demosolution\\demo.pl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E35D2B60-8C6D-43F9-A9E4-0E0C363799FA}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35D2B60-8C6D-43F9-A9E4-0E0C363799FA}|Demo.PL\\Demo.PL.csproj|c:\\users\\mohamed\\onedrive\\documents\\mvc\\demosolution\\demo.pl\\viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E35D2B60-8C6D-43F9-A9E4-0E0C363799FA}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,141 +98,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DepartmentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.DAL\\Repositories\\DepartmentRepository.cs",
-              "RelativeDocumentMoniker": "Demo.DAL\\Repositories\\DepartmentRepository.cs",
-              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.DAL\\Repositories\\DepartmentRepository.cs",
-              "RelativeToolTip": "Demo.DAL\\Repositories\\DepartmentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T17:23:47.955Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DepartmentService.cs",
-              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.BLL\\DepartmentService.cs",
-              "RelativeDocumentMoniker": "Demo.BLL\\DepartmentService.cs",
-              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.BLL\\DepartmentService.cs",
-              "RelativeToolTip": "Demo.BLL\\DepartmentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T17:50:44.103Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.DAL\\Data\\Contexts\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Demo.DAL\\Data\\Contexts\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.DAL\\Data\\Contexts\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Demo.DAL\\Data\\Contexts\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T16:49:26.892Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.PL\\Program.cs",
-              "RelativeDocumentMoniker": "Demo.PL\\Program.cs",
-              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.PL\\Program.cs",
-              "RelativeToolTip": "Demo.PL\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBQAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T15:12:18.651Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.PL\\appsettings.json",
-              "RelativeDocumentMoniker": "Demo.PL\\appsettings.json",
-              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.PL\\appsettings.json",
-              "RelativeToolTip": "Demo.PL\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-28T19:38:28.951Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DepartmentController.cs",
-              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.PL\\Controllers\\DepartmentController.cs",
-              "RelativeDocumentMoniker": "Demo.PL\\Controllers\\DepartmentController.cs",
-              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.PL\\Controllers\\DepartmentController.cs",
-              "RelativeToolTip": "Demo.PL\\Controllers\\DepartmentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T17:46:25.697Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GlobalUsing.cs",
-              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.DAL\\GlobalUsing.cs",
-              "RelativeDocumentMoniker": "Demo.DAL\\GlobalUsing.cs",
-              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.DAL\\GlobalUsing.cs",
-              "RelativeToolTip": "Demo.DAL\\GlobalUsing.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T16:47:21.335Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.PL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.PL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-03T19:23:53.104Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "20251003165437_IntialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.DAL\\Data\\Migrations\\20251003165437_IntialCreate.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Data\\Migrations\\20251003165437_IntialCreate.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.DAL\\Data\\Migrations\\20251003165437_IntialCreate.cs",
+              "RelativeToolTip": "Demo.DAL\\Data\\Migrations\\20251003165437_IntialCreate.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T16:54:37.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "DepartmentConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.DAL\\Data\\Configurations\\DepartmentConfiguration.cs",
               "RelativeDocumentMoniker": "Demo.DAL\\Data\\Configurations\\DepartmentConfiguration.cs",
               "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.DAL\\Data\\Configurations\\DepartmentConfiguration.cs",
               "RelativeToolTip": "Demo.DAL\\Data\\Configurations\\DepartmentConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T16:31:16.648Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Department.cs",
-              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.DAL\\Models\\Department.cs",
-              "RelativeDocumentMoniker": "Demo.DAL\\Models\\Department.cs",
-              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.DAL\\Models\\Department.cs",
-              "RelativeToolTip": "Demo.DAL\\Models\\Department.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T16:16:07.746Z",
+              "WhenOpened": "2025-10-03T16:48:52.752Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.DAL\\Models\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Demo.DAL\\Models\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.DAL\\Models\\BaseEntity.cs",
-              "RelativeToolTip": "Demo.DAL\\Models\\BaseEntity.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA/wBIAAAAAAAAAAAAAAA==",
+              "Title": "20251003164248_IntialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.DAL\\Data\\Migrations\\20251003164248_IntialCreate.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Data\\Migrations\\20251003164248_IntialCreate.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.DAL\\Data\\Migrations\\20251003164248_IntialCreate.cs",
+              "RelativeToolTip": "Demo.DAL\\Data\\Migrations\\20251003164248_IntialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T16:15:56.948Z",
+              "WhenOpened": "2025-10-03T16:42:48.43Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.PL\\ViewModels\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Demo.PL\\ViewModels\\ErrorViewModel.cs",
@@ -205,7 +167,215 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.PL\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.PL\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Demo.PL\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T17:46:25.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.PL\\Views\\Departments\\Index.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Departments\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.PL\\Views\\Departments\\Index.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Departments\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-03T17:04:56.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.PL\\Program.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Program.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.PL\\Program.cs",
+              "RelativeToolTip": "Demo.PL\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T15:12:18.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.BLL\\DTOs\\DepartmentDto.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\DTOs\\DepartmentDto.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.BLL\\DTOs\\DepartmentDto.cs",
+              "RelativeToolTip": "Demo.BLL\\DTOs\\DepartmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T15:50:05.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.PL\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.PL\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Demo.PL\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T16:38:32.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.BLL\\Services\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\Services\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.BLL\\Services\\DepartmentService.cs",
+              "RelativeToolTip": "Demo.BLL\\Services\\DepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T17:50:44.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.PL\\appsettings.json",
+              "RelativeDocumentMoniker": "Demo.PL\\appsettings.json",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.PL\\appsettings.json",
+              "RelativeToolTip": "Demo.PL\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-28T19:38:28.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DeparmentFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.BLL\\Factories\\DeparmentFactory.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\Factories\\DeparmentFactory.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.BLL\\Factories\\DeparmentFactory.cs",
+              "RelativeToolTip": "Demo.BLL\\Factories\\DeparmentFactory.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAYwDQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T16:52:18.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdatedDepartmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.BLL\\DTOs\\UpdatedDepartmentDto.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\DTOs\\UpdatedDepartmentDto.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.BLL\\DTOs\\UpdatedDepartmentDto.cs",
+              "RelativeToolTip": "Demo.BLL\\DTOs\\UpdatedDepartmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T15:17:40.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreatedDepartmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.BLL\\DTOs\\CreatedDepartmentDto.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\DTOs\\CreatedDepartmentDto.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.BLL\\DTOs\\CreatedDepartmentDto.cs",
+              "RelativeToolTip": "Demo.BLL\\DTOs\\CreatedDepartmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T15:07:03.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DeparmentDetailDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.BLL\\DTOs\\DeparmentDetailDto.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\DTOs\\DeparmentDetailDto.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.BLL\\DTOs\\DeparmentDetailDto.cs",
+              "RelativeToolTip": "Demo.BLL\\DTOs\\DeparmentDetailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T16:01:49.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IDepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.DAL\\Repositories\\IDepartmentRepository.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Repositories\\IDepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.DAL\\Repositories\\IDepartmentRepository.cs",
+              "RelativeToolTip": "Demo.DAL\\Repositories\\IDepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T15:55:28.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.DAL\\Repositories\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Repositories\\DepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.DAL\\Repositories\\DepartmentRepository.cs",
+              "RelativeToolTip": "Demo.DAL\\Repositories\\DepartmentRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T17:23:47.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.DAL\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\GlobalUsing.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.DAL\\GlobalUsing.cs",
+              "RelativeToolTip": "Demo.DAL\\GlobalUsing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T16:47:21.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.DAL\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.DAL\\Models\\Department.cs",
+              "RelativeToolTip": "Demo.DAL\\Models\\Department.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T16:16:07.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.DAL\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.DAL\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Demo.DAL\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA9wBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T16:15:56.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\MVC\\DemoSolution\\Demo.PL\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Demo.PL\\Views\\_ViewImports.cshtml",

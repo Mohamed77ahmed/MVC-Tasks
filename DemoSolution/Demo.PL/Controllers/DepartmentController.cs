@@ -1,15 +1,18 @@
-﻿using Demo.BLL;
+﻿using Demo.BLL.Services;
+using Microsoft.AspNetCore.Mvc;
 
 namespace Demo.PL.Controllers
 {
-    public class DepartmentController
+    public class DepartmentsController(IDepartmentService _departmentService):Controller
     {
         // DepartmentService departmentservice used Across all actions
         // EmployeeService --> Assign manager :this service needed only for one action
 
-        public DepartmentController(DepartmentService departmentService)// Call Service Department Service
+        [HttpGet]
+        public IActionResult Index() 
         {
-            
-        }// Ask CLR to Create Object From Department
+            var department = _departmentService.GetAllDepartment();
+            return View(department);  
+        }
     }
 }
