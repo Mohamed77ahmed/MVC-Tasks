@@ -1,0 +1,9 @@
+C:\Users\Mohamed\OneDrive\Documents\MVC\DemoSolution\Demo.PL\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Mohamed\OneDrive\Documents\MVC\DemoSolution\Demo.PL\obj\Debug\net8.0\Demo.PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed\OneDrive\Documents\MVC\DemoSolution\Demo.PL\obj\Debug\net8.0\Demo.PL.AssemblyInfoInputs.cache
+C:\Users\Mohamed\OneDrive\Documents\MVC\DemoSolution\Demo.PL\obj\Debug\net8.0\Demo.PL.AssemblyInfo.cs
+C:\Users\Mohamed\OneDrive\Documents\MVC\DemoSolution\Demo.PL\obj\Debug\net8.0\Demo.PL.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\OneDrive\Documents\MVC\DemoSolution\Demo.PL\obj\Debug\net8.0\Demo.PL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mohamed\OneDrive\Documents\MVC\DemoSolution\Demo.PL\obj\Debug\net8.0\Demo.PL.RazorAssemblyInfo.cache
+C:\Users\Mohamed\OneDrive\Documents\MVC\DemoSolution\Demo.PL\obj\Debug\net8.0\Demo.PL.RazorAssemblyInfo.cs
+C:\Users\Mohamed\OneDrive\Documents\MVC\DemoSolution\Demo.PL\obj\Debug\net8.0\Demo.PL.sourcelink.json
