@@ -1,4 +1,4 @@
-﻿using Demo.DAL.Data.Contexts;
+using Demo.DAL.Data.Contexts;
 using Demo.DAL.Models.DeparmentModel;
 using Demo.DAL.Models.Shared;
 using Demo.DAL.Repositories.Interfaces;
@@ -16,8 +16,8 @@ namespace Demo.DAL.Repositories.Classes
         //Get All TEntity 
         public IEnumerable<TEntity> GetAll(bool WithTracking = false)
         {
-            if (WithTracking) return _context.Set<TEntity>().ToList();
-            else return _context.Set<TEntity>().AsNoTracking();
+            if (WithTracking) return _context.Set<TEntity>().Where(entity=>entity.IsDeleted==false).ToList();
+            else return _context.Set<TEntity>().Where(entity => entity.IsDeleted == false).AsNoTracking();
 
         }
         public TEntity? GetById(int id)
